@@ -12,7 +12,10 @@ Welcome to my GitHub profile! I'm a passionate Senior iOS Developer with over 5 
 - **Design & Collaboration:** Figma, Sketch, Adobe XD, Jira, Trello
 
 ### 🚀 Projects
-- **Coming Soon**
+Here are a few of my personal projects in iOS:
+
+- **DayCraft**: Elegant daily routine planner for iOS & iPadOS [View Repo](https://github.com/isnihal/DayCraft)
+- **Bored**: Fun app that suggest random activties from the BoredAPI [View Repo](https://github.com/isnihal/Bored)
 
 <!--
 Here are a few projects I'm particularly proud of:
