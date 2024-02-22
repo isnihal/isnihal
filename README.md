@@ -39,6 +39,9 @@ Here are a few of my personal projects in iOS:
 
 Feel free to reach out if you're interested in collaborating on a project or if you just want to chat about the latest in iOS development. I'm always open to connecting with fellow developers and tech enthusiasts!
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **isnihal/isnihal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
