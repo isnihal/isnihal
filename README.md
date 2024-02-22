@@ -1,7 +1,7 @@
 # Hello World, I'm Nihal Ismail  👋
 
 ## Senior iOS Developer  | Swift Expert | Crafting Excellence 🚀
-![Coding](/media/code.gif)
+<img src="/media/code.gif" style="width: 50%;">
 
 Welcome to my GitHub profile! I'm a passionate Senior iOS Developer with over 5 years of experience specializing in building high-quality, user-centric iOS applications. With a keen eye for design and a commitment to seamless user experiences, I've led numerous projects from concept to launch, ensuring they meet the highest standards of performance and usability.
 
