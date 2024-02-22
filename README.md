@@ -40,6 +40,81 @@ Here are a few of my personal projects in iOS:
 Feel free to reach out if you're interested in collaborating on a project or if you just want to chat about the latest in iOS development. I'm always open to connecting with fellow developers and tech enthusiasts!
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 775.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 72 Contributions in the Year 2024
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 23 Public Repositories 
+ > 
+> 🔑 58 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                284 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+🌆 Daytime                568 commits         █████████░░░░░░░░░░░░░░░░   35.15 % 
+🌃 Evening                633 commits         ██████████░░░░░░░░░░░░░░░   39.17 % 
+🌙 Night                  131 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   207 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+Tuesday                  203 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+Wednesday                246 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Thursday                 249 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+Friday                   209 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+Saturday                 265 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+Sunday                   237 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     33 repos            ███████████░░░░░░░░░░░░░░   43.42 % 
+Dart                     13 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+Swift                    8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+MQL5                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/isnihal/isnihal/main/assets/bar_graph.png)
+
+
+ Last Updated on 22/02/2024 16:28:57 UTC
 <!--END_SECTION:waka-->
 
 <!--
