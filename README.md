@@ -1,6 +1,7 @@
 # Hello World, I'm Nihal Ismail  👋
 
 ## Senior iOS Developer  | Swift Expert | Crafting Excellence 🚀
+![Coding](/media/code.gif)
 
 Welcome to my GitHub profile! I'm a passionate Senior iOS Developer with over 5 years of experience specializing in building high-quality, user-centric iOS applications. With a keen eye for design and a commitment to seamless user experiences, I've led numerous projects from concept to launch, ensuring they meet the highest standards of performance and usability.
 
@@ -15,21 +16,14 @@ Welcome to my GitHub profile! I'm a passionate Senior iOS Developer with over 5 
 Here are a few of my personal projects in iOS:
 
 - [**DayCraft**](https://github.com/isnihal/DayCraft): Elegant daily routine planner for iOS & iPadOS
+- [**LinkBucket**](https://github.com/isnihal/LinkBucket-iOS): Organize and save your favorite urls
 - [**Bored**](https://github.com/isnihal/Bored): Fun app that suggest random activties from the BoredAPI
-
-<!--
-Here are a few projects I'm particularly proud of:
-
-- **[Project Name]**: A brief description of the project, highlighting key features and technologies used. [View Repo](#)
-- **[Project Name]**: A brief description of the project, highlighting key features and technologies used. [View Repo](#)
-- **[Project Name]**: A brief description of the project, highlighting key features and technologies used. [View Repo](#)
---->
 
 ### 💡 What I'm up to
 <!--TODO: Add What I'm upto currently-->
 <!--- Currently working on [Project Name/Type of Work], focusing on [specific goals or technologies].-->
-- Exploring [visionOS](https://developer.apple.com/visionos/) 
-- Looking to collaborate on innovative iOS projects that push the boundaries of what's possible.
+- 🌱 I’m currently exploring [visionOS](https://developer.apple.com/visionos/) 
+- 👯 Looking to collaborate on innovative iOS projects that push the boundaries of what's possible.
 
 ### 📫 How to reach me
 
@@ -44,6 +38,9 @@ Here are a few projects I'm particularly proud of:
 ---
 
 Feel free to reach out if you're interested in collaborating on a project or if you just want to chat about the latest in iOS development. I'm always open to connecting with fellow developers and tech enthusiasts!
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **isnihal/isnihal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
