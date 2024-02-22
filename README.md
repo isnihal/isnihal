@@ -8,8 +8,8 @@ Welcome to my GitHub profile! I'm a passionate Senior iOS Developer with over 5 
 ### 🛠 Tech Stack
 
 - **Languages:** Swift, Objective-C
-- **Frameworks & Tools:** SwiftUI, SwiftData, UIKit, Core Data, Core Animation, ARKit, Xcode, Git, Firebase
-- **Testing & CI/CD:** XCTest, XCUITest, Fastlane, Jenkins, Travis CI
+- **Frameworks & Tools:** SwiftUI, SwiftData, UIKit, Core Data, Core Animation, MLKit, ARKit, Xcode, Git, Firebase
+- **Testing & CI/CD:** XCTest, Fastlane, Jenkins, Travis CI
 - **Design & Collaboration:** Figma, Sketch, Adobe XD, Jira, Trello
 
 ### 🚀 Projects
