@@ -35,9 +35,9 @@ Here are a few of my personal projects in iOS:
 - [SwiftLint](https://medium.com/@isnihal/simple-guide-to-adding-swiftlint-to-your-xcode-project-11d2ed20da26): Elevate your project with SwiftLint that automates Swift code standard enforcement, enhancing code quality and consistency.
 - [Automatic grammar agreement](https://medium.com/@isnihal/simple-guide-to-automatic-grammar-agreement-in-swift-19f4f1122e1a): Explore an elegant way to automatically inflict grammar rules using the power of Swift.
 
----
-
 Feel free to reach out if you're interested in collaborating on a project or if you just want to chat about the latest in iOS development. I'm always open to connecting with fellow developers and tech enthusiasts!
+
+---
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
