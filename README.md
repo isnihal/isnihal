@@ -15,21 +15,14 @@ Welcome to my GitHub profile! I'm a passionate Senior iOS Developer with over 5 
 Here are a few of my personal projects in iOS:
 
 - [**DayCraft**](https://github.com/isnihal/DayCraft): Elegant daily routine planner for iOS & iPadOS
+- [**LinkBucket**](https://github.com/isnihal/LinkBucket-iOS): Organize and save your favorite urls
 - [**Bored**](https://github.com/isnihal/Bored): Fun app that suggest random activties from the BoredAPI
-
-<!--
-Here are a few projects I'm particularly proud of:
-
-- **[Project Name]**: A brief description of the project, highlighting key features and technologies used. [View Repo](#)
-- **[Project Name]**: A brief description of the project, highlighting key features and technologies used. [View Repo](#)
-- **[Project Name]**: A brief description of the project, highlighting key features and technologies used. [View Repo](#)
---->
 
 ### 💡 What I'm up to
 <!--TODO: Add What I'm upto currently-->
 <!--- Currently working on [Project Name/Type of Work], focusing on [specific goals or technologies].-->
-- Exploring [visionOS](https://developer.apple.com/visionos/) 
-- Looking to collaborate on innovative iOS projects that push the boundaries of what's possible.
+- 🌱 I’m currently exploring [visionOS](https://developer.apple.com/visionos/) 
+- 👯 Looking to collaborate on innovative iOS projects that push the boundaries of what's possible.
 
 ### 📫 How to reach me
 
