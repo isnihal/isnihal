@@ -25,6 +25,8 @@ Here are a few of my personal projects in iOS:
 - 🌱 I’m currently exploring [visionOS](https://developer.apple.com/visionos/) 
 - 👯 Looking to collaborate on innovative iOS projects that push the boundaries of what's possible.
 
+### 😄 Pronouns: He/Him
+
 ### 📫 How to reach me
 
 - **LinkedIn:** [isnihal](https://www.linkedin.com/in/isnihal/)
@@ -38,10 +40,13 @@ Here are a few of my personal projects in iOS:
 Feel free to reach out if you're interested in collaborating on a project or if you just want to chat about the latest in iOS development. I'm always open to connecting with fellow developers and tech enthusiasts!
 
 ---
+### Books I'm currently reading
+<!-- GOODREADS-LIST:START -->
+<!-- GOODREADS-LIST:END -->
 
 <!--START_SECTION:waka-->
 
-**🐱 My GitHub Data** 
+### 🐱 My GitHub Data 
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
 
