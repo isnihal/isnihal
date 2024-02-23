@@ -3,7 +3,13 @@
 ## Senior iOS Developer  | Swift Expert | Crafting Excellence 🚀
 <img src="/media/code.gif" style="width: 50%;">
 
-Welcome to my GitHub profile! I'm a passionate Senior iOS Developer with over 5 years of experience specializing in building high-quality, user-centric iOS applications. With a keen eye for design and a commitment to seamless user experiences, I've led numerous projects from concept to launch, ensuring they meet the highest standards of performance and usability.
+### 🙋 About Me
+```swift
+let name: String = "Nihal Ismail"
+let arbeit: String = "Senior iOS Developer"
+let pronouns: [String] = ["He","Him"]
+```
+***"Senior iOS Developer with over 5 years of experience specializing in building high-quality, user-centric iOS applications. With a keen eye for design and a commitment to seamless user experiences, I've led numerous projects from concept to launch, ensuring they meet the highest standards of performance and usability."***
 
 ### 🛠 Tech Stack
 
@@ -25,8 +31,6 @@ Here are a few of my personal projects in iOS:
 <!--- Currently working on [Project Name/Type of Work], focusing on [specific goals or technologies].-->
 - 🌱 I’m currently exploring [visionOS](https://developer.apple.com/visionos/) 
 - 👯 Looking to collaborate on innovative iOS projects that push the boundaries of what's possible.
-
-### 😄 Pronouns: He/Him
 
 ### 📫 How to reach me
 
