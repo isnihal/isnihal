@@ -8,9 +8,8 @@
 let name: String = "Nihal Ismail"
 let arbeit: String = "Senior iOS Developer"
 let pronouns: [String] = ["HE","HIM","🙎‍♂️"]
-
-let aboutMe: String = "Passionate Senior iOS Developer with over 5 years of experience\n specializing in building high-quality, user-centric iOS applications.\n With a keen eye for design and a commitment to seamless user experiences, I've led\n numerous projects from concept to launch, ensuring they meet the highest standards of\n performance and usability."
 ```
+***"Senior iOS Developer with over 5 years of experience specializing in building high-quality, user-centric iOS applications. With a keen eye for design and a commitment to seamless user experiences, I've led numerous projects from concept to launch, ensuring they meet the highest standards of performance and usability."***
 
 ### 🛠 Tech Stack
 
