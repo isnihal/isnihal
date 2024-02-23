@@ -32,7 +32,7 @@ Here are a few of my personal projects in iOS:
 - **LinkedIn:** [isnihal](https://www.linkedin.com/in/isnihal/)
 - **Email:** nihalismailk@gmail.com
 
-### 📚 I believe in continuous learning and sharing knowledge. Here are some articles I've written:
+### 🎓 I believe in continuous learning and sharing knowledge. Here are some articles I've written:
 
 - [SwiftLint](https://medium.com/@isnihal/simple-guide-to-adding-swiftlint-to-your-xcode-project-11d2ed20da26): Elevate your project with SwiftLint that automates Swift code standard enforcement, enhancing code quality and consistency.
 - [Automatic grammar agreement](https://medium.com/@isnihal/simple-guide-to-automatic-grammar-agreement-in-swift-19f4f1122e1a): Explore an elegant way to automatically inflict grammar rules using the power of Swift.
@@ -40,8 +40,18 @@ Here are a few of my personal projects in iOS:
 Feel free to reach out if you're interested in collaborating on a project or if you just want to chat about the latest in iOS development. I'm always open to connecting with fellow developers and tech enthusiasts!
 
 ---
-### Books I'm currently reading
+### 📚 Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [What Color Is Your Parachute?: Your Guide to a Lifetime of Meaningful Work and Career Success](https://www.goodreads.com/review/show/5755889289?utm_medium=api&utm_source=rss) by Richard Nelson Bolles (⭐️3.89)
+- [Harry Potter and the Deathly Hallows](https://www.goodreads.com/review/show/6227601075?utm_medium=api&utm_source=rss) by J.K. Rowling (⭐️4.79)
+- [Lonely Planet Germany (Travel Guide)](https://www.goodreads.com/review/show/6227601080?utm_medium=api&utm_source=rss) by Marc di Duca (⭐️4)
+- [Dopamine Detox : A Short Guide to Remove Distractions and Get Your Brain to Do Hard Things (Productivity Series Book 1)](https://www.goodreads.com/review/show/5957555329?utm_medium=api&utm_source=rss) by Thibaut Meurisse (⭐️4.04)
+- [Lonely Planet The World: A Traveller's Guide to the Planet](https://www.goodreads.com/review/show/5957555276?utm_medium=api&utm_source=rss) by Lonely Planet (⭐️4.28)
+- [Harry Potter and the Chamber of Secrets (Harry Potter, #2)](https://www.goodreads.com/review/show/5946739680?utm_medium=api&utm_source=rss) by J.K. Rowling (⭐️4.63)
+- [Outliers: The Story of Success](https://www.goodreads.com/review/show/5643554409?utm_medium=api&utm_source=rss) by Malcolm Gladwell (⭐️4.35)
+- [High Performance Habits: How Extraordinary People Become That Way](https://www.goodreads.com/review/show/5529525480?utm_medium=api&utm_source=rss) by Brendon Burchard (⭐️4.27)
+- [50 Greatest Short Stories](https://www.goodreads.com/review/show/5527461397?utm_medium=api&utm_source=rss) by Terry O&apos;Brien (⭐️3.95)
+- [The 48 Laws of Power](https://www.goodreads.com/review/show/5518271263?utm_medium=api&utm_source=rss) by Robert Greene (⭐️4.3)
 <!-- GOODREADS-LIST:END -->
 
 <!--START_SECTION:waka-->

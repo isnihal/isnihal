@@ -1,4 +1,4 @@
-name: Latest book list from Goodreads
+name: Currently reading books from Goodreads
 on:
   schedule: # Run workflow automatically
     # This will make it run every hour
