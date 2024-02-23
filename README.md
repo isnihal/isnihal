@@ -60,6 +60,8 @@ Feel free to reach out if you're interested in collaborating on a project or if 
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
 
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=isnihal&theme=darkhub&title=MultiLanguage,Experience,PullRequest,Commits)
+
 
 **I'm an Early 🐤** 
 
