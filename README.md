@@ -48,7 +48,7 @@ Feel free to reach out if you're interested in collaborating on a project or if 
 ### 📚 Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/review/show/6289837129?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.38)
-- [What Color Is Your Parachute?: Your Guide to a Lifetime of Meaningful Work and Career Success](https://www.goodreads.com/review/show/5755889289?utm_medium=api&utm_source=rss) by Richard Nelson Bolles (⭐️3.86)
+- [What Color Is Your Parachute?: Your Guide to a Lifetime of Meaningful Work and Career Success](https://www.goodreads.com/review/show/5755889289?utm_medium=api&utm_source=rss) by Richard Nelson Bolles (⭐️3.83)
 - [Harry Potter and the Deathly Hallows](https://www.goodreads.com/review/show/6227601075?utm_medium=api&utm_source=rss) by J.K. Rowling (⭐️4.79)
 - [Lonely Planet Germany (Travel Guide)](https://www.goodreads.com/review/show/6227601080?utm_medium=api&utm_source=rss) by Marc di Duca (⭐️4)
 - [Dopamine Detox : A Short Guide to Remove Distractions and Get Your Brain to Do Hard Things (Productivity Series Book 1)](https://www.goodreads.com/review/show/5957555329?utm_medium=api&utm_source=rss) by Thibaut Meurisse (⭐️4.04)
