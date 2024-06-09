@@ -47,16 +47,16 @@ Feel free to reach out if you're interested in collaborating on a project or if 
 ---
 ### 📚 Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [Flying: Answers From Inside the Cockpit : Be Inspired By a Professional Pilot With Exciting Background Information About Air Travel!](https://www.goodreads.com/review/show/6557690395?utm_medium=api&utm_source=rss) by Hans-Georg Rabacher (⭐️4.26)
 - [Airport Operations for the Professional Pilot (Aviation Books Commercial & Professional Pilot Series)](https://www.goodreads.com/review/show/6530835959?utm_medium=api&utm_source=rss) by Dr Stephen Walmsley (⭐️4)
 - [Meteorology for the Commercial Pilot (Aviation Books Commercial & Professional Pilot Series)](https://www.goodreads.com/review/show/6398773249?utm_medium=api&utm_source=rss) by Dr Stephen Walmsley (⭐️5)
 - [Aviation Weather for the Private Pilot (Aviation Books Private Pilot Series)](https://www.goodreads.com/review/show/6395096560?utm_medium=api&utm_source=rss) by Stephen  Walmsley (⭐️4.79)
 - [Principles of Flight for the Private Pilot (Aviation Books Private Pilot Series)](https://www.goodreads.com/review/show/6389014515?utm_medium=api&utm_source=rss) by Stephen  Walmsley (⭐️4.75)
 - [Make It Stick: The Science of Successful Learning](https://www.goodreads.com/review/show/6383590166?utm_medium=api&utm_source=rss) by Peter C. Brown (⭐️4.41)
-- [The IndiGo Story: Inside the Upstart that Redefined Indian Aviation](https://www.goodreads.com/review/show/6369547748?utm_medium=api&utm_source=rss) by Shelley Vishwajeet (⭐️3.73)
+- [The IndiGo Story: Inside the Upstart that Redefined Indian Aviation](https://www.goodreads.com/review/show/6369547748?utm_medium=api&utm_source=rss) by Shelley Vishwajeet (⭐️3.74)
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/review/show/6289837129?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.38)
 - [What Color Is Your Parachute?: Your Guide to a Lifetime of Meaningful Work and Career Success](https://www.goodreads.com/review/show/5755889289?utm_medium=api&utm_source=rss) by Richard Nelson Bolles (⭐️3.91)
 - [Harry Potter and the Deathly Hallows](https://www.goodreads.com/review/show/6227601075?utm_medium=api&utm_source=rss) by J.K. Rowling (⭐️4.79)
-- [Lonely Planet Germany (Travel Guide)](https://www.goodreads.com/review/show/6227601080?utm_medium=api&utm_source=rss) by Marc di Duca (⭐️4)
 <!-- GOODREADS-LIST:END -->
 
 <!--START_SECTION:waka-->
