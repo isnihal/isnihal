@@ -53,7 +53,7 @@ Feel free to reach out if you're interested in collaborating on a project or if 
 - [Indistractable: How to Control Your Attention and Choose Your Life](https://www.goodreads.com/review/show/6715331306?utm_medium=api&utm_source=rss) by Nir   Eyal (⭐️4.07)
 - [The Self-Improver: A Pilot's Journey](https://www.goodreads.com/review/show/6704252297?utm_medium=api&utm_source=rss) by Nick Eades (⭐️4.6)
 - [Beyond the Last Blue Mountain](https://www.goodreads.com/review/show/6691119949?utm_medium=api&utm_source=rss) by R.M. Lala (⭐️4.53)
-- [Flying: Answers From Inside the Cockpit : Be Inspired By a Professional Pilot With Exciting Background Information About Air Travel!](https://www.goodreads.com/review/show/6557690395?utm_medium=api&utm_source=rss) by Hans-Georg Rabacher (⭐️4.19)
+- [Flying: Answers From Inside the Cockpit : Be Inspired By a Professional Pilot With Exciting Background Information About Air Travel!](https://www.goodreads.com/review/show/6557690395?utm_medium=api&utm_source=rss) by Hans-Georg Rabacher (⭐️4.18)
 - [Airport Operations for the Professional Pilot (Aviation Books Commercial & Professional Pilot Series)](https://www.goodreads.com/review/show/6530835959?utm_medium=api&utm_source=rss) by Dr Stephen Walmsley (⭐️4)
 - [Aviation Weather for the Private Pilot (Aviation Books Private Pilot Series)](https://www.goodreads.com/review/show/6395096560?utm_medium=api&utm_source=rss) by Stephen  Walmsley (⭐️4.79)
 - [Principles of Flight for the Private Pilot (Aviation Books Private Pilot Series)](https://www.goodreads.com/review/show/6389014515?utm_medium=api&utm_source=rss) by Stephen  Walmsley (⭐️4.73)
