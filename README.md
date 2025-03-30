@@ -47,7 +47,7 @@ Feel free to reach out if you're interested in collaborating on a project or if 
 ---
 ### 📚 Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [Seneca&apos;s Letters from a Stoic](https://www.goodreads.com/review/show/7387976589?utm_medium=api&utm_source=rss) by Seneca (⭐️4.6)
+- [Seneca&apos;s Letters from a Stoic](https://www.goodreads.com/review/show/7387976589?utm_medium=api&utm_source=rss) by Seneca (⭐️4.55)
 - [QF32](https://www.goodreads.com/review/show/7153776845?utm_medium=api&utm_source=rss) by Richard de Crespigny (⭐️4.36)
 - [How to Stop Worrying and Start Living](https://www.goodreads.com/review/show/6721212656?utm_medium=api&utm_source=rss) by Dale Carnegie (⭐️4.73)
 - [The 7 Habits of Highly Effective People](https://www.goodreads.com/review/show/6721246581?utm_medium=api&utm_source=rss) by Stephen R. Covey (⭐️4.3)
