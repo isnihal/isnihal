@@ -47,16 +47,16 @@ Feel free to reach out if you're interested in collaborating on a project or if 
 ---
 ### 📚 Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [Don't Believe Everything You Think](https://www.goodreads.com/review/show/7677037549?utm_medium=api&utm_source=rss) by Joseph  Nguyen (⭐️4.23)
+- [101 Essays That Will Change The Way You Think](https://www.goodreads.com/review/show/7677037179?utm_medium=api&utm_source=rss) by Brianna Wiest (⭐️4.39)
 - [Sully: The Untold Story Behind the Miracle on the Hudson](https://www.goodreads.com/review/show/7654236020?utm_medium=api&utm_source=rss) by Chesley B. Sullenberger III (⭐️4.39)
 - [Flight Instruments for the Private Pilot (Aviation Books Private Pilot Series)](https://www.goodreads.com/review/show/7649255749?utm_medium=api&utm_source=rss) by Stephen  Walmsley (⭐️4.47)
 - [Still Improving:: Becoming the World’s Most Experienced 747 Captain](https://www.goodreads.com/review/show/7637855049?utm_medium=api&utm_source=rss) by Nick Eades (⭐️4.67)
 - [Seneca&apos;s Letters from a Stoic](https://www.goodreads.com/review/show/7387976589?utm_medium=api&utm_source=rss) by Seneca (⭐️4.58)
 - [QF32](https://www.goodreads.com/review/show/7153776845?utm_medium=api&utm_source=rss) by Richard de Crespigny (⭐️4.36)
-- [How to Stop Worrying and Start Living](https://www.goodreads.com/review/show/6721212656?utm_medium=api&utm_source=rss) by Dale Carnegie (⭐️4.71)
+- [How to Stop Worrying and Start Living](https://www.goodreads.com/review/show/6721212656?utm_medium=api&utm_source=rss) by Dale Carnegie (⭐️4.67)
 - [The 7 Habits of Highly Effective People](https://www.goodreads.com/review/show/6721246581?utm_medium=api&utm_source=rss) by Stephen R. Covey (⭐️4.3)
 - [How to Win Friends and Influence People: Building Lasting Relationships and Achieving Influence: A Comprehensive Guide to Winning Friends and Influencing People](https://www.goodreads.com/review/show/4323734459?utm_medium=api&utm_source=rss) by Dale Carnegie (⭐️4.35)
-- [Indistractable: How to Control Your Attention and Choose Your Life](https://www.goodreads.com/review/show/6715331306?utm_medium=api&utm_source=rss) by Nir   Eyal (⭐️4.05)
-- [Beyond the Last Blue Mountain](https://www.goodreads.com/review/show/6691119949?utm_medium=api&utm_source=rss) by R.M. Lala (⭐️4.5)
 <!-- GOODREADS-LIST:END -->
 
 <!--START_SECTION:waka-->
