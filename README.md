@@ -52,7 +52,7 @@ Feel free to reach out if you're interested in collaborating on a project or if 
 - [Sully: The Untold Story Behind the Miracle on the Hudson](https://www.goodreads.com/review/show/7654236020?utm_medium=api&utm_source=rss) by Chesley B. Sullenberger III (⭐️4.39)
 - [Flight Instruments for the Private Pilot (Aviation Books Private Pilot Series)](https://www.goodreads.com/review/show/7649255749?utm_medium=api&utm_source=rss) by Stephen  Walmsley (⭐️4.47)
 - [Still Improving:: Becoming the World’s Most Experienced 747 Captain](https://www.goodreads.com/review/show/7637855049?utm_medium=api&utm_source=rss) by Nick Eades (⭐️4.67)
-- [Seneca&apos;s Letters from a Stoic](https://www.goodreads.com/review/show/7387976589?utm_medium=api&utm_source=rss) by Seneca (⭐️4.58)
+- [Seneca&apos;s Letters from a Stoic](https://www.goodreads.com/review/show/7387976589?utm_medium=api&utm_source=rss) by Seneca (⭐️4.46)
 - [QF32](https://www.goodreads.com/review/show/7153776845?utm_medium=api&utm_source=rss) by Richard de Crespigny (⭐️4.36)
 - [How to Stop Worrying and Start Living](https://www.goodreads.com/review/show/6721212656?utm_medium=api&utm_source=rss) by Dale Carnegie (⭐️4.67)
 - [The 7 Habits of Highly Effective People](https://www.goodreads.com/review/show/6721246581?utm_medium=api&utm_source=rss) by Stephen R. Covey (⭐️4.3)
