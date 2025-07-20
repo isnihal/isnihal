@@ -47,7 +47,7 @@ Feel free to reach out if you're interested in collaborating on a project or if 
 ---
 ### 📚 Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [Don't Believe Everything You Think](https://www.goodreads.com/review/show/7677037549?utm_medium=api&utm_source=rss) by Joseph  Nguyen (⭐️4.23)
+- [Don't Believe Everything You Think](https://www.goodreads.com/review/show/7677037549?utm_medium=api&utm_source=rss) by Joseph  Nguyen (⭐️4.22)
 - [101 Essays That Will Change The Way You Think](https://www.goodreads.com/review/show/7677037179?utm_medium=api&utm_source=rss) by Brianna Wiest (⭐️4.39)
 - [Sully: The Untold Story Behind the Miracle on the Hudson](https://www.goodreads.com/review/show/7654236020?utm_medium=api&utm_source=rss) by Chesley B. Sullenberger III (⭐️4.39)
 - [Flight Instruments for the Private Pilot (Aviation Books Private Pilot Series)](https://www.goodreads.com/review/show/7649255749?utm_medium=api&utm_source=rss) by Stephen  Walmsley (⭐️4.5)
