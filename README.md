@@ -54,7 +54,7 @@ Feel free to reach out if you're interested in collaborating on a project or if 
 - [Still Improving:: Becoming the World’s Most Experienced 747 Captain](https://www.goodreads.com/review/show/7637855049?utm_medium=api&utm_source=rss) by Nick Eades (⭐️4.66)
 - [Seneca&apos;s Letters from a Stoic](https://www.goodreads.com/review/show/7387976589?utm_medium=api&utm_source=rss) by Seneca (⭐️4.5)
 - [QF32](https://www.goodreads.com/review/show/7153776845?utm_medium=api&utm_source=rss) by Richard de Crespigny (⭐️4.36)
-- [How to Stop Worrying and Start Living](https://www.goodreads.com/review/show/6721212656?utm_medium=api&utm_source=rss) by Dale Carnegie (⭐️4.71)
+- [How to Stop Worrying and Start Living](https://www.goodreads.com/review/show/6721212656?utm_medium=api&utm_source=rss) by Dale Carnegie (⭐️4.72)
 - [The 7 Habits of Highly Effective People](https://www.goodreads.com/review/show/6721246581?utm_medium=api&utm_source=rss) by Stephen R. Covey (⭐️4.29)
 - [How to Win Friends and Influence People: Building Lasting Relationships and Achieving Influence: A Comprehensive Guide to Winning Friends and Influencing People](https://www.goodreads.com/review/show/4323734459?utm_medium=api&utm_source=rss) by Dale Carnegie (⭐️4.35)
 <!-- GOODREADS-LIST:END -->
