@@ -50,7 +50,7 @@ Feel free to reach out if you're interested in collaborating on a project or if 
 - [No More Mr. Nice Guy](https://www.goodreads.com/review/show/7966861341?utm_medium=api&utm_source=rss) by Robert A. Glover (⭐️4.37)
 - [50 Things to realize before it's too late](https://www.goodreads.com/review/show/7858912767?utm_medium=api&utm_source=rss) by Manoj Chenthamarakshan (⭐️4.11)
 - [Don't Believe Everything You Think](https://www.goodreads.com/review/show/7677037549?utm_medium=api&utm_source=rss) by Joseph  Nguyen (⭐️4.22)
-- [101 Essays That Will Change The Way You Think](https://www.goodreads.com/review/show/7677037179?utm_medium=api&utm_source=rss) by Brianna Wiest (⭐️4.39)
+- [101 Essays That Will Change The Way You Think](https://www.goodreads.com/review/show/7677037179?utm_medium=api&utm_source=rss) by Brianna Wiest (⭐️4.41)
 - [Sully: The Untold Story Behind the Miracle on the Hudson](https://www.goodreads.com/review/show/7654236020?utm_medium=api&utm_source=rss) by Chesley B. Sullenberger III (⭐️4.38)
 - [Still Improving:: Becoming the World’s Most Experienced 747 Captain](https://www.goodreads.com/review/show/7637855049?utm_medium=api&utm_source=rss) by Nick Eades (⭐️4.66)
 - [Seneca&apos;s Letters from a Stoic](https://www.goodreads.com/review/show/7387976589?utm_medium=api&utm_source=rss) by Seneca (⭐️4.47)
