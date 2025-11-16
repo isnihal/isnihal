@@ -47,16 +47,16 @@ Feel free to reach out if you're interested in collaborating on a project or if 
 ---
 ### 📚 Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [Short Stories for Adults - Think Again: 33 Zen-Rooted Fables to Ignite Mindset & Self-Awareness](https://www.goodreads.com/review/show/8072240858?utm_medium=api&utm_source=rss) by Manoj Chenthamarakshan (⭐️4.5)
+- [Life Is Short And So Is This Book](https://www.goodreads.com/review/show/8071882987?utm_medium=api&utm_source=rss) by Peter    Atkins (⭐️3.92)
 - [No More Mr. Nice Guy](https://www.goodreads.com/review/show/7966861341?utm_medium=api&utm_source=rss) by Robert A. Glover (⭐️4.37)
 - [50 Things to realize before it's too late](https://www.goodreads.com/review/show/7858912767?utm_medium=api&utm_source=rss) by Manoj Chenthamarakshan (⭐️4.11)
-- [Don't Believe Everything You Think](https://www.goodreads.com/review/show/7677037549?utm_medium=api&utm_source=rss) by Joseph  Nguyen (⭐️4.22)
+- [Don't Believe Everything You Think](https://www.goodreads.com/review/show/7677037549?utm_medium=api&utm_source=rss) by Joseph  Nguyen (⭐️4.21)
 - [101 Essays That Will Change The Way You Think](https://www.goodreads.com/review/show/7677037179?utm_medium=api&utm_source=rss) by Brianna Wiest (⭐️4.41)
 - [Sully: The Untold Story Behind the Miracle on the Hudson](https://www.goodreads.com/review/show/7654236020?utm_medium=api&utm_source=rss) by Chesley B. Sullenberger III (⭐️4.38)
 - [Still Improving:: Becoming the World’s Most Experienced 747 Captain](https://www.goodreads.com/review/show/7637855049?utm_medium=api&utm_source=rss) by Nick Eades (⭐️4.66)
-- [Seneca&apos;s Letters from a Stoic](https://www.goodreads.com/review/show/7387976589?utm_medium=api&utm_source=rss) by Seneca (⭐️4.47)
+- [Seneca&apos;s Letters from a Stoic](https://www.goodreads.com/review/show/7387976589?utm_medium=api&utm_source=rss) by Seneca (⭐️4.5)
 - [QF32](https://www.goodreads.com/review/show/7153776845?utm_medium=api&utm_source=rss) by Richard de Crespigny (⭐️4.36)
-- [How to Stop Worrying and Start Living](https://www.goodreads.com/review/show/6721212656?utm_medium=api&utm_source=rss) by Dale Carnegie (⭐️4.68)
-- [The 7 Habits of Highly Effective People](https://www.goodreads.com/review/show/6721246581?utm_medium=api&utm_source=rss) by Stephen R. Covey (⭐️4.3)
 <!-- GOODREADS-LIST:END -->
 
 <!--START_SECTION:waka-->
