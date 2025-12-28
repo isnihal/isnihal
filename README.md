@@ -48,7 +48,7 @@ Feel free to reach out if you're interested in collaborating on a project or if 
 ### 📚 Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
 - [Short Stories for Adults - Think Again: 33 Zen-Rooted Fables to Ignite Mindset & Self-Awareness](https://www.goodreads.com/review/show/8072240858?utm_medium=api&utm_source=rss) by Manoj Chenthamarakshan (⭐️4.5)
-- [Life Is Short And So Is This Book](https://www.goodreads.com/review/show/8071882987?utm_medium=api&utm_source=rss) by Peter    Atkins (⭐️3.92)
+- [Life Is Short And So Is This Book](https://www.goodreads.com/review/show/8071882987?utm_medium=api&utm_source=rss) by Peter    Atkins (⭐️3.93)
 - [No More Mr. Nice Guy](https://www.goodreads.com/review/show/7966861341?utm_medium=api&utm_source=rss) by Robert A. Glover (⭐️4.37)
 - [50 Things to realize before it's too late](https://www.goodreads.com/review/show/7858912767?utm_medium=api&utm_source=rss) by Manoj Chenthamarakshan (⭐️4.1)
 - [Don't Believe Everything You Think](https://www.goodreads.com/review/show/7677037549?utm_medium=api&utm_source=rss) by Joseph  Nguyen (⭐️4.2)
