@@ -49,13 +49,13 @@ Feel free to reach out if you're interested in collaborating on a project or if 
 <!-- GOODREADS-LIST:START -->
 - [Instrument Flight Rules Flashcards](https://www.goodreads.com/review/show/8346273306?utm_medium=api&utm_source=rss) by Darin Duncan (⭐️5)
 - [The Art of Going SLOW: How to Simplify Your Life, Calm Your Mind, and Focus on What Truly Matters to You! (The Art Of Living Well Book 4)](https://www.goodreads.com/review/show/8280500525?utm_medium=api&utm_source=rss) by Damon Zahariades (⭐️3.97)
-- [Short Stories for Adults - Think Again: 33 Zen-Rooted Fables to Ignite Mindset & Self-Awareness](https://www.goodreads.com/review/show/8072240858?utm_medium=api&utm_source=rss) by Manoj Chenthamarakshan (⭐️4.75)
+- [Short Stories for Adults - Think Again: 33 Zen-Rooted Fables to Ignite Mindset & Self-Awareness](https://www.goodreads.com/review/show/8072240858?utm_medium=api&utm_source=rss) by Manoj Chenthamarakshan (⭐️4.8)
 - [Life Is Short And So Is This Book](https://www.goodreads.com/review/show/8071882987?utm_medium=api&utm_source=rss) by Peter    Atkins (⭐️3.93)
 - [No More Mr. Nice Guy](https://www.goodreads.com/review/show/7966861341?utm_medium=api&utm_source=rss) by Robert A. Glover (⭐️4.37)
 - [50 Things to realize before it's too late](https://www.goodreads.com/review/show/7858912767?utm_medium=api&utm_source=rss) by Manoj Chenthamarakshan (⭐️4.06)
 - [Don't Believe Everything You Think](https://www.goodreads.com/review/show/7677037549?utm_medium=api&utm_source=rss) by Joseph  Nguyen (⭐️4.2)
-- [101 Essays That Will Change The Way You Think](https://www.goodreads.com/review/show/7677037179?utm_medium=api&utm_source=rss) by Brianna Wiest (⭐️4.45)
-- [Sully: The Untold Story Behind the Miracle on the Hudson](https://www.goodreads.com/review/show/7654236020?utm_medium=api&utm_source=rss) by Chesley B. Sullenberger III (⭐️4.39)
+- [101 Essays That Will Change The Way You Think](https://www.goodreads.com/review/show/7677037179?utm_medium=api&utm_source=rss) by Brianna Wiest (⭐️4.47)
+- [Sully: The Untold Story Behind the Miracle on the Hudson](https://www.goodreads.com/review/show/7654236020?utm_medium=api&utm_source=rss) by Chesley B. Sullenberger III (⭐️4.38)
 - [Still Improving:: Becoming the World’s Most Experienced 747 Captain](https://www.goodreads.com/review/show/7637855049?utm_medium=api&utm_source=rss) by Nick Eades (⭐️4.67)
 <!-- GOODREADS-LIST:END -->
 
