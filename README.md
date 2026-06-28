@@ -49,7 +49,7 @@ Feel free to reach out if you're interested in collaborating on a project or if 
 <!-- GOODREADS-LIST:START -->
 - [FAA Private Pilot Checkride Prep ACS Notes, For Student Pilot Training Study Guide Pass the PPL Oral Exam Flight School Training Resource: Pass the Oral Exam](https://www.goodreads.com/review/show/8503142159?utm_medium=api&utm_source=rss) by Alex  Bond (⭐️5)
 - [The Lucky One (From Outlaw Biker to Airline Pilot and Beyond Book 2)](https://www.goodreads.com/review/show/8392885460?utm_medium=api&utm_source=rss) by Dale Arenson (⭐️4.65)
-- [100 Harsh Truths of Life (100 Quotes)](https://www.goodreads.com/review/show/8392883092?utm_medium=api&utm_source=rss) by Library Mindset (⭐️4.07)
+- [100 Harsh Truths of Life (100 Quotes)](https://www.goodreads.com/review/show/8392883092?utm_medium=api&utm_source=rss) by Library Mindset (⭐️4.08)
 - [Instrument Flight Rules Flashcards](https://www.goodreads.com/review/show/8346273306?utm_medium=api&utm_source=rss) by Darin Duncan (⭐️5)
 - [The Art of Going SLOW: How to Simplify Your Life, Calm Your Mind, and Focus on What Truly Matters to You! (The Art Of Living Well Book 4)](https://www.goodreads.com/review/show/8280500525?utm_medium=api&utm_source=rss) by Damon Zahariades (⭐️4.01)
 - [Short Stories for Adults - Think Again: 33 Zen-Rooted Fables to Ignite Mindset & Self-Awareness](https://www.goodreads.com/review/show/8072240858?utm_medium=api&utm_source=rss) by Manoj Chenthamarakshan (⭐️4.86)
